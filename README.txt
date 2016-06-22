@@ -1,3 +1,0 @@
-RPMeter è stato pensato per il monitoring e il controllo degli RPM per quanto 
-riguarda le fresatrici. Sfruttando un trasmettitore infrarosso e 
-il relativo ricevitore, è possibile stimare la velocità angolare del mandrino.
