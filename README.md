@@ -4,7 +4,6 @@ RPMeter è pensato per il monitoring e il controllo degli RPM per fresatrici. Sf
 <p><b>Autori</b></p>
 <li>Mario Protopapa - social.mario.protopapa@gmail.com</li>
 <li>Carlo Bortone</li>
-<li>Alessandro Romano</li>
 
 con la collaborazione di <b><a href="http://www.fablabrindisi.com/">FabLab Brindisi</b>
 
