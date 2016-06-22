@@ -2,9 +2,9 @@
 RPMeter è pensato per il monitoring e il controllo degli RPM per le fresatrici. Sfruttando un trasmettitore ad infrarosso e il relativo ricevitore, è possibile stimare la velocità angolare di rotazione della fresa e comandare il circuito che andrà a variare la tensione di alimentazione della fresa per ottenere il numero di RPM stabiliti.
 
 <p><b>Autori</b></p>
-Mario Protopapa
-Carlo Bortone
-Alessandro Romano
+<li>Mario Protopapa</li>
+<li>Carlo Bortone</li>
+<li>Alessandro Romano</li>
 
 con la collaborazione di <b>FabLab Brindisi</b>
 
