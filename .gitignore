@@ -1,0 +1,10 @@
+.settings/org.eclipse.cdt.core.prefs
+.settings/language.settings.xml
+.ino.cpp
+*.DS_Store
+*~
+*.bak
+.project
+.settings
+.cproject
+Release/
