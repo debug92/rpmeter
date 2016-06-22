@@ -7,7 +7,7 @@
 
 #ifndef CONFIG_H_
 #define CONFIG_H_
-#define PULLUP
+//#define PULLUP
 #define PACK_SAMPLE
 /*
  *
